@@ -40,6 +40,8 @@ python src/password_generator.py
 ## Additional Resources
 - [NIST Password Guidelines](https://pages.nist.gov/800-63-3/sp800-63b.html)
 - [Have I Been Pwned](https://haveibeenpwned.com/) – Check if your email or password has been compromised.
+- [Strong Password Generator](https://password-checker.io/) – To Generate Strong Password.
+- [Password Check](https://security.org/) – To check you password.
 
 ---
 
